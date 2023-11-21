@@ -1,0 +1,277 @@
+[
+  {
+    "name": "EU",
+    "data": [
+      {
+        "id": "AT",
+        "name": "Austria",
+        "latitude": 48.2081743,
+        "longitude": 16.3738189,
+        "flag": "img/flags/4x3/at.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Austria"
+      },
+      {
+        "id": "IE",
+        "name": "Ireland",
+        "latitude": 53.349805,
+        "longitude": -6.26031,
+        "flag": "img/flags/4x3/ie.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Ireland"
+      },
+      {
+        "id": "DK",
+        "name": "Denmark",
+        "latitude": 55.6760968,
+        "longitude": 12.5683372,
+        "flag": "img/flags/4x3/dk.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Denmark"
+      },
+      {
+        "id": "FI",
+        "name": "Finland",
+        "latitude": 60.1698557,
+        "longitude": 24.9383791,
+        "flag": "img/flags/4x3/fi.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Finland"
+      },
+      {
+        "id": "SE",
+        "name": "Sweden",
+        "latitude": 59.329323,
+        "longitude": 18.068581,
+        "flag": "img/flags/4x3/se.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Sweden"
+      },
+      {
+        "id": "IT",
+        "name": "Italy",
+        "latitude": 41.902784,
+        "longitude": 12.496366,
+        "flag": "img/flags/4x3/it.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Italy"
+      },
+      {
+        "id": "FR",
+        "name": "France",
+        "latitude": 48.856614,
+        "longitude": 2.3522219,
+        "flag": "img/flags/4x3/fr.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from France"
+      },
+      {
+        "id": "ES",
+        "name": "Spain",
+        "latitude": 40.4167754,
+        "longitude": -3.7037902,
+        "flag": "img/flags/4x3/es.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Spain"
+      },
+      {
+        "id": "GR",
+        "name": "Greece",
+        "latitude": 37.9838096,
+        "longitude": 23.7275388,
+        "flag": "img/flags/4x3/gr.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Greece"
+      },
+      {
+        "id": "DE",
+        "name": "Germany",
+        "latitude": 52.5200066,
+        "longitude": 13.404954,
+        "flag": "img/flags/4x3/de.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Germany"
+      },
+      {
+        "id": "BE",
+        "name": "Belgium",
+        "latitude": 50.8503396,
+        "longitude": 4.3517103,
+        "flag": "img/flags/4x3/be.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Belgium"
+      },
+      {
+        "id": "LU",
+        "name": "Luxembourg",
+        "latitude": 49.611621,
+        "longitude": 6.131934,
+        "flag": "img/flags/4x3/lu.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Luxembourg"
+      },
+      {
+        "id": "NL",
+        "name": "Netherlands",
+        "latitude": 52.370216,
+        "longitude": 4.895168,
+        "flag": "img/flags/4x3/nl.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Netherlands"
+      },
+      {
+        "id": "PT",
+        "name": "Portugal",
+        "latitude": 38.722252,
+        "longitude": -9.139337,
+        "flag": "img/flags/4x3/pt.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Portugal"
+      },
+      {
+        "id": "LT",
+        "name": "Lithuania",
+        "latitude": 54.687157,
+        "longitude": 25.279652,
+        "flag": "img/flags/4x3/lt.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Lithuania"
+      },
+      {
+        "id": "LV",
+        "name": "Latvia",
+        "latitude": 56.949648,
+        "longitude": 24.105186,
+        "flag": "img/flags/4x3/lv.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Latvia"
+      },
+      {
+        "id": "CZ",
+        "name": "Czech Republic",
+        "latitude": 50.0755381,
+        "longitude": 14.4378005,
+        "flag": "img/flags/4x3/cz.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Czech Republic"
+      },
+      {
+        "id": "SK",
+        "name": "Slovakia",
+        "latitude": 48.148598,
+        "longitude": 17.107748,
+        "flag": "img/flags/4x3/sk.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Slovakia"
+      },
+      {
+        "id": "SI",
+        "name": "Slovenia",
+        "latitude": 46.056946,
+        "longitude": 14.505751,
+        "flag": "img/flags/4x3/si.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Slovenia"
+      },
+      {
+        "id": "EE",
+        "name": "Estonia",
+        "latitude": 59.4369608,
+        "longitude": 24.7535747,
+        "flag": "img/flags/4x3/ee.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Estonia"
+      },
+      {
+        "id": "MT",
+        "name": "Malta",
+        "latitude": 35.937496,
+        "longitude": 14.375416,
+        "flag": "img/flags/4x3/mt.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Malta"
+      },
+      {
+        "id": "PL",
+        "name": "Poland",
+        "latitude": 52.229676,
+        "longitude": 21.012229,
+        "flag": "img/flags/4x3/pl.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Poland"
+      },
+      {
+        "id": "HU",
+        "name": "Hungary",
+        "latitude": 47.497912,
+        "longitude": 19.040235,
+        "flag": "img/flags/4x3/hu.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Hungary"
+      },
+      {
+        "id": "CY",
+        "name": "Cyprus",
+        "latitude": 35.1855659,
+        "longitude": 33.3822764,
+        "flag": "img/flags/4x3/cy.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Cyprus"
+      },
+      {
+        "id": "RO",
+        "name": "Romania",
+        "latitude": 44.439663,
+        "longitude": 26.096306,
+        "flag": "img/flags/4x3/ro.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Romania"
+      },
+      {
+        "id": "BG",
+        "name": "Bulgaria",
+        "latitude": 42.6977082,
+        "longitude": 23.3218675,
+        "flag": "img/flags/4x3/bg.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Bulgaria"
+      },
+      {
+        "id": "HR",
+        "name": "Croatia",
+        "latitude": 45.81444,
+        "longitude": 15.97798,
+        "flag": "img/flags/4x3/hr.svg",
+        "linkDesc": "A link title",
+        "link": "https://www.example.com",
+        "description": "some text to be inserted from Croatia"
+      }
+    ]
+  }
+]
